@@ -1,2 +1,2 @@
 # maintrend
-a typecho theme
+a business typecho theme
